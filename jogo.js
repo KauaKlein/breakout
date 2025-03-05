@@ -18,8 +18,8 @@ export default class Jogo
     {
         const blocos = [];
         const largura = 75;
-        const altura = 20;
-        const linhas = 5;
+        const altura = 30;
+        const linhas = 4;
         const colunas = 7;
 
         for (let linha = 0; linha < linhas; linha++) 
@@ -27,8 +27,8 @@ export default class Jogo
             for (let coluna = 0; coluna < colunas; coluna++) 
             {
                 blocos.push(new Bloco(coluna * 
-                    (largura + 5) + 35, linha * 
-                    (altura + 5) + 30, largura, altura)
+                    (largura + 30) + 40, linha * 
+                    (altura + 7) + 60, largura, altura)
                 );
             }
         }

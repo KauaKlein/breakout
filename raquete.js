@@ -2,8 +2,8 @@ export default class Raquete
 {
     constructor(larguraTela, alturaTela) 
     {
-        this.largura = 100;
-        this.altura = 10;
+        this.largura = 140;
+        this.altura = 14;
         this.x = (larguraTela - this.largura) / 2;
         this.y = alturaTela - this.altura - 20;
         this.velocidade = 20;
