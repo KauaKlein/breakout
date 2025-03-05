@@ -2,15 +2,15 @@ Desenvolver um jogo 2D utilizando a API Canvas do HTML5 e aplicar conceitos de P
 
 Descrição
 
-    Inspirado no jogo Breakout, é um clássico jogo de arcade onde o objetivo é destruir todos os blocos na tela utilizando uma bola que rebate de volta com uma plataforma controlada pelo jogador. 
+    Inspirado no jogo Breakout, é um clássico jogo de arcade onde o objetivo é destruir todos os blocos na tela utilizando uma bola que rebate de volta com uma plataforma controlada pelo jogador consiga o maximo de pontos sem deixar a bola cair. 
 
 Instruções
 
-    Use as setas do teclado ou o mouse para mover a plataforma.
-    Destrua todos os blocos para completar a fase.
-    Evite que a bola caia para fora da tela!
+    Use as setinhas do teclado para movimentar a raquete.
+    Destrua todos os blocos para conseguir pontos.
+    Evite que a bola caia para fora da tela se não você nunca mais vai conseguir jogar sem da F5!
 
 Características
 
     Jogo simples e viciante: Controles fáceis e acessíveis.
-    Diversidade de blocos: Blocos de diferentes cores e efeitos.
+    Diversidade de blocos: Blocos de uma unica cor e sem efeitos.
